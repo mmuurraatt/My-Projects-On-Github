@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T19:38:22.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="tCKDgH4IguZERNo2xO5s" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T13:44:55.190Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NPxy4mj5pTf7s6kAWjtq" version="14.7.2" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="868" dy="450" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3743" dy="1500" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2a0f93b5c73ef8e7-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;strokeColor=#AE4132;" parent="1" vertex="1">
           <mxGeometry x="225" y="70" width="10" height="990" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="5" y="101" width="268" height="97" as="geometry" />
+        <mxCell id="2a0f93b5c73ef8e7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;fillColor=#CC6600;" parent="1" vertex="1">
+          <mxGeometry x="6" y="101" width="321" height="148" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-3" value="&lt;font style=&quot;font-size: 24px&quot;&gt;06.02&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="205" y="112" width="51" height="20" as="geometry" />
+          <mxGeometry x="208" y="107" width="51" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-7" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="45" y="393" width="40" height="20" as="geometry" />
@@ -22,17 +22,8 @@
         <mxCell id="2a0f93b5c73ef8e7-15" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="45" y="863" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-18" value="&lt;h1&gt;İlk Toplantı&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Ekip üyeleri tanıştı ve aracın temel özellikleri belirlendi.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="5" y="108" width="238" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-20" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="85" y="364" width="160" height="77" as="geometry" />
-        </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-22" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="85" y="594" width="160" height="77" as="geometry" />
-        </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-23" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="255" y="709" width="160" height="77" as="geometry" />
+        <mxCell id="2a0f93b5c73ef8e7-18" value="&lt;h1&gt;&lt;font color=&quot;#000099&quot;&gt;İlk Toplantı&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Ekip üyeleri tanıştı ve aracın temel özellikleri belirlendi.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="137" width="238" height="89" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-25" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="255" y="950" width="160" height="77" as="geometry" />
@@ -109,38 +100,47 @@
         <mxCell id="-CI094suR1XkRSVhxneS-25" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="660" y="960" width="160" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="rtz68vQmMSl6x_0ly5T9-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
+        <mxCell id="rtz68vQmMSl6x_0ly5T9-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="104" width="268" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="rtz68vQmMSl6x_0ly5T9-8" value="&lt;h1&gt;İlk Tolantı&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Ekip üyeleri tanıştı ve aracın temel özellikleri belirlendi.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+        <mxCell id="rtz68vQmMSl6x_0ly5T9-8" value="&lt;h1&gt;İlk Tolantı&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Ekip üyeleri tanıştı ve aracın temel özellikleri belirlendi.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="488" y="112" width="238" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="rtz68vQmMSl6x_0ly5T9-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;fillColor=#00FF00;" vertex="1" parent="1">
-          <mxGeometry x="147" y="226" width="268" height="97" as="geometry" />
+        <mxCell id="rtz68vQmMSl6x_0ly5T9-9" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;fillColor=#00FF00;" parent="1" vertex="1">
+          <mxGeometry x="79" y="280" width="310" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="rtz68vQmMSl6x_0ly5T9-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;fillColor=#66CC00;" vertex="1" parent="1">
-          <mxGeometry x="10" y="364.5" width="268" height="97" as="geometry" />
+        <mxCell id="rtz68vQmMSl6x_0ly5T9-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;fillColor=#CC6600;" parent="1" vertex="1">
+          <mxGeometry y="464" width="331" height="153.75" as="geometry" />
         </mxCell>
-        <mxCell id="rtz68vQmMSl6x_0ly5T9-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;fillColor=#66CC00;" vertex="1" parent="1">
-          <mxGeometry x="149" y="485" width="268" height="97" as="geometry" />
+        <mxCell id="rtz68vQmMSl6x_0ly5T9-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;fillColor=#00FF00;" parent="1" vertex="1">
+          <mxGeometry x="83" y="668" width="305" height="153" as="geometry" />
         </mxCell>
-        <mxCell id="rtz68vQmMSl6x_0ly5T9-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;fillColor=#66CC00;" vertex="1" parent="1">
-          <mxGeometry x="7" y="600" width="268" height="97" as="geometry" />
+        <mxCell id="rtz68vQmMSl6x_0ly5T9-18" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#000099&quot;&gt;Parçaların Tanınması&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Gerekli olabilecek elektronik parçalar hakkında bilgi toplandı.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="318" width="254" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="rtz68vQmMSl6x_0ly5T9-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;fillColor=#66CC00;" vertex="1" parent="1">
-          <mxGeometry x="157" y="715" width="268" height="97" as="geometry" />
+        <mxCell id="rtz68vQmMSl6x_0ly5T9-19" value="&lt;font style=&quot;font-size: 24px&quot;&gt;19.02&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="107" y="295" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rtz68vQmMSl6x_0ly5T9-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;fillColor=#66CC00;" vertex="1" parent="1">
-          <mxGeometry x="7" y="837" width="268" height="97" as="geometry" />
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--1" value="&lt;h1 style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;font color=&quot;#000099&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Nitelik Araştırması&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Alt bileşenlerin teknik açıdan en uygununun bulunması için araştırmalar yapıldı.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="39" y="493" width="267" height="95.5" as="geometry" />
         </mxCell>
-        <mxCell id="rtz68vQmMSl6x_0ly5T9-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;fillColor=#66CC00;" vertex="1" parent="1">
-          <mxGeometry x="157" y="955" width="268" height="97" as="geometry" />
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;26.02&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="255" y="469" width="51" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rtz68vQmMSl6x_0ly5T9-18" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 16px&quot; color=&quot;#7f00ff&quot;&gt;Parçaların Tanınması&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Gerekli olabilecek elektronik parçalar hakkında bilgi toplandı.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="152" y="233" width="267" height="89" as="geometry" />
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--5" value="&lt;h1&gt;&lt;font color=&quot;#000099&quot;&gt;Alt Bileşenlerin Belirlenmesi&lt;/font&gt;&lt;/h1&gt;&lt;h1&gt;Hangi ekipman ve parçaların kullanılacağına karar verildi.&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="112" y="715" width="270" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="rtz68vQmMSl6x_0ly5T9-19" value="&lt;font style=&quot;font-size: 24px&quot;&gt;19.02&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="168" y="233" width="40" height="20" as="geometry" />
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;05.03&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="112" y="679" width="51" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--7" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;fillColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="-3.5" y="860.75" width="330" height="166.25" as="geometry" />
+        </mxCell>
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--8" value="&lt;h1&gt;&lt;span&gt;&lt;font color=&quot;#000099&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Ön Tasarım Raporu&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; İçeriğinin Oluşturulması&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Takımımızın diğer üyeleriyle yapılan ortak çalışma neticesinde rapor hazırlandı.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="13" y="893" width="285" height="139" as="geometry" />
+        </mxCell>
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--9" value="&lt;font style=&quot;font-size: 24px&quot;&gt;21.03&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="259" y="873" width="51" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
