@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T14:25:47.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="sf7Jwdnz6pUwSIvlwQDy" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T14:31:17.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="gyYt7lgEamVQI2cwuo97" version="14.7.2" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="2586" dy="900" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2586" dy="900" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,23 +196,38 @@
         <mxCell id="T_IrZNJ4jwdqQeyAai1--86" value="&lt;font style=&quot;font-size: 24px&quot;&gt;21.03&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-314" y="401" width="51" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T_IrZNJ4jwdqQeyAai1--88" value="&lt;h1&gt;&lt;font color=&quot;#000099&quot;&gt;İlk Toplantı&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Elektronik yol haritası çıkartıldı.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--88" value="&lt;h1&gt;&lt;font color=&quot;#000099&quot;&gt;İlk Toplantı&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;Elektronik yol haritası çıkartıldı.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
           <mxGeometry x="-768" y="592" width="238" height="89" as="geometry" />
         </mxCell>
         <mxCell id="T_IrZNJ4jwdqQeyAai1--89" value="&lt;h1&gt;ÖTR için seçilen materyallerin stok kontrolü ve alternatif seçimi yapıldı.&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
           <mxGeometry x="-324" y="598" width="252" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="T_IrZNJ4jwdqQeyAai1--90" value="&lt;h1&gt;Yurtdışından alınacak malzemeler için aracı firmalar ile görüşmeler yapıldı.&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-772" y="728" width="262" height="81" as="geometry" />
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--90" value="&lt;h1&gt;&amp;nbsp; &amp;nbsp; Yurtdışından alınacak malzemeler için aracı firmalar ile görüşmeler yapıldı.&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-774" y="726" width="274" height="81" as="geometry" />
         </mxCell>
         <mxCell id="T_IrZNJ4jwdqQeyAai1--91" value="&lt;h1&gt;Hidrofonlar&amp;nbsp; ile ilgili araştırma yapıldı&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-329" y="737" width="262" height="68" as="geometry" />
+          <mxGeometry x="-327" y="733" width="262" height="68" as="geometry" />
         </mxCell>
         <mxCell id="T_IrZNJ4jwdqQeyAai1--92" value="&lt;h1&gt;Mekanik ve yazılım ekibiyle ortak toplantı düzenlendi.&amp;nbsp;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
           <mxGeometry x="-772" y="865" width="262" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="T_IrZNJ4jwdqQeyAai1--93" value="&lt;h1&gt;Kritik Tasarım Raporunun yazımına başlandı.&amp;nbsp;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
           <mxGeometry x="-327" y="863" width="262" height="66.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--111" value="&lt;h1&gt;Kritik Tasarım Raporunun elektronik bölümü tamamlandı.&amp;nbsp;&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-773" y="983" width="262" height="66.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--112" value="&lt;h1&gt;Rapor kontrol edildi ve diğer birimlerin kısımlarıyla birleştirildi.&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-337" y="987" width="262" height="66.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--113" value="&lt;font style=&quot;font-size: 24px&quot;&gt;01.05&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-576" y="589" width="65" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--114" value="&lt;font style=&quot;font-size: 24px&quot;&gt;01.05&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-344" y="593" width="65" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="T_IrZNJ4jwdqQeyAai1--115" value="&lt;font style=&quot;font-size: 24px&quot;&gt;01.05&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-558" y="717" width="65" height="14" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
