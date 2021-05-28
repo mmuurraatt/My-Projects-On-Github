@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T14:47:05.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="x3UL-IbmS5mFthSkmtxM" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T14:50:34.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="pn8j8w83Y-9Wy7yKvd3u" version="14.7.2" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="2586" dy="900" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4150" dy="1210" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,15 +114,6 @@
         </mxCell>
         <mxCell id="T_IrZNJ4jwdqQeyAai1--29" value="&lt;font style=&quot;font-size: 24px&quot;&gt;06.02&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-540" y="44" width="51" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="T_IrZNJ4jwdqQeyAai1--30" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-818" y="326" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="T_IrZNJ4jwdqQeyAai1--31" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-818" y="556" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="T_IrZNJ4jwdqQeyAai1--32" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-818" y="796" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T_IrZNJ4jwdqQeyAai1--33" value="&lt;h1 style=&quot;font-size: 19px&quot;&gt;&lt;font color=&quot;#000099&quot; style=&quot;font-size: 19px&quot;&gt;İlk Toplantı&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 19px&quot;&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;Ekip üyeleri tanıştı ve aracın temel özellikleri belirlendi.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
           <mxGeometry x="-765" y="78" width="254" height="101" as="geometry" />
