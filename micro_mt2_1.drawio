@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T20:50:51.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="W6yF2lSXuptW4PZHZfYR" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-17T20:52:06.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="qkyHetVSH8-v6VmxyEwZ" version="17.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="791" dy="2659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
         <mxCell id="V8S6z_V3umpfPKRa8JrM-73" value="Burası Sona gidecek" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="-770" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="V8S6z_V3umpfPKRa8JrM-74" value="[SI] = 78h" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="V8S6z_V3umpfPKRa8JrM-74" value="[SI] &amp;gt; 78h" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="82.5" y="-690" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V8S6z_V3umpfPKRa8JrM-75" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V8S6z_V3umpfPKRa8JrM-74">
